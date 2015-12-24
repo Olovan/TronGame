@@ -1,0 +1,8 @@
+#Archive
+*.a
+
+#Object
+*.o
+
+#Codeblocks Project File
+*.cbp
